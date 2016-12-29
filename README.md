@@ -1,6 +1,6 @@
-# TicTacToe_AI
+# Tic Tac Toe Alpha-Beta-Pruning
 
-A Tic-tac-toe game where machine uses minimax algorithm with alpha-beta pruning against human player to a certain depth to make a move.
+A Tic-tac-toe game where machine uses Minimax algorithm with alpha-beta pruning against human player to a certain depth to make a move.
 
 
 ## Technology
